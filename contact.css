@@ -1,0 +1,46 @@
+body {
+  width: 980px;
+  margin: 0 auto;
+}
+form {
+  width: 980px
+  line-height: 3.5;
+}
+.company th {
+  width: 150px;
+  font-size: 18px;
+  text-align: right;
+  margin-right: 20px;
+}
+.company td {
+  padding-left: 1rem;
+}
+td textarea {
+  width: 480px;
+  display: flex;
+}
+.input_form {
+  width: 480px;
+}
+.contact_submit {
+  text-align: center;
+}
+.content {
+  line-height: 3.5;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  min-height: 100%;
+}
+.footer {
+  width: 980px;
+  height: 100px;
+  position: absolute;
+  bottom: 0;
+  background-color: #4D4D4D;
+}
+.contact_submit :hover {
+  opacity: 0.6;
+}
